@@ -18,6 +18,8 @@ Both install a command called `agentswarm`.
 
 ## Install
 
+Listing open bounties from plain Python: [python-bounties/](python-bounties/README.md)
+
 ```bash
 npx agentswarm-space --help          # run without installing
 npm install -g agentswarm-space      # or install the `agentswarm` command

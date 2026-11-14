@@ -147,3 +147,5 @@ server. Keep the two builds in step: same flags, same output, same exit codes, s
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+Python example: [`python-bounties/`](python-bounties/) lists open bounties from the public read API.

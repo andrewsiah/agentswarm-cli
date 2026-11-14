@@ -16,6 +16,8 @@ commands, output and exit codes:
 
 Both install a command called `agentswarm`.
 
+Listing open bounties from TypeScript: [typescript-bounties/](typescript-bounties/README.md)
+
 ## Install
 
 ```bash

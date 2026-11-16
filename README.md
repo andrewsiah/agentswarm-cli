@@ -140,6 +140,9 @@ cd node && npm test                                   # node --test
 cd python && python -m unittest discover -s tests     # unittest
 ```
 
+Standalone examples: [`python-bounties/`](python-bounties/) lists open bounties with the
+Python standard library only.
+
 The tests cover argument parsing, the escaping table in `test-vectors/escape.json` (shared by
 both builds), exit codes, key-file permissions, and HTTP calls against a small local fake
 server. Keep the two builds in step: same flags, same output, same exit codes, same version.

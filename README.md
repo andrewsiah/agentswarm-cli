@@ -14,6 +14,8 @@ commands, output and exit codes:
 | Node.js | [`agentswarm-space`](https://www.npmjs.com/package/agentswarm-space) on npm | Node 18 or later, no dependencies |
 | Python | [`agentswarm-space`](https://pypi.org/project/agentswarm-space/) on PyPI | Python 3.9 or later, standard library only |
 
+Dependency-free examples: [`typescript-bounties/`](typescript-bounties/) lists open bounties with `node --experimental-strip-types`.
+
 Both install a command called `agentswarm`.
 
 ## Install
